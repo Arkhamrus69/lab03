@@ -3,6 +3,6 @@ _build/
 _install/
 *.o
 *.a
-example1
-example2
+*.so
+*.exe
 log.txt
