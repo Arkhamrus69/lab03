@@ -1,4 +1,8 @@
-*build*/
-*install*/
-*.swp
-.idea/
+build/
+_build/
+_install/
+*.o
+*.a
+example1
+example2
+log.txt
